@@ -1,10 +1,53 @@
 .profile{
  border-radius: 50%;
- border: black 2px solid;
+ border: rgb(243, 239, 239) 2px solid;
  margin-top: 50px;
+ padding: 2px;
+ box-shadow: rgb(119, 114, 114)  1px 1px 1px ;
     
 }
 .icon{
    
 }
 
+.btn-all{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+    color: black;
+    font-weight: bold;
+    box-shadow: 1px 2.5px ;
+}
+.btn-all:hover{
+    cursor: pointer;
+    background-color: aliceblue;
+    transition: 0.5s;
+
+}
+.btn-h{
+    background-color: rgb(247, 123, 7);
+}
+.btn-c{
+background-color: rgb(10, 131, 187);
+}
+.btn-b{
+    background-color: rgb(179, 26, 179);
+}
+.btn-r{
+background-color: rgb(11, 212, 212);
+}
+.btn-j{
+    background-color: yellow;
+}
+.btn-m{
+    background-color: green;
+}
+.btn-n{
+    background-color: #68a063;
+}
+
+.card{
+    width: 150px;
+    
+}
