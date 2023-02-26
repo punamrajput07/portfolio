@@ -7,12 +7,22 @@
     
 }
 .icon{
-   
+   border-radius: 50%;
+   border: none;
+   width: 80PX;
+   box-shadow: rgb(223, 212, 212) 2px 2.5px 1px;
+}
+.p-logo{
+    width: 160PX;
+    border: NONE;
+    padding: NONE;
+    border-radius: 50%;
+    box-shadow: 1PX 2PX 1px 1px  rgb(129, 119, 119);
 }
 
 .btn-all{
-    border: 1px solid black;
-    border-radius: 10px;
+    border: none;
+    border-radius: 20px;
     padding: 5px;
     width: 100px;
     color: black;
@@ -32,22 +42,62 @@
 background-color: rgb(10, 131, 187);
 }
 .btn-b{
-    background-color: rgb(179, 26, 179);
+    background-color: #563d7c;
 }
 .btn-r{
-background-color: rgb(11, 212, 212);
+background-color: #0dcaf0;
 }
 .btn-j{
-    background-color: yellow;
+    background-color: #efad19;
 }
 .btn-m{
     background-color: green;
 }
 .btn-n{
-    background-color: #68a063;
+    background-color: #3c873a;
+}
+.btn-e{
+    background-color: gray;
 }
 
 .card{
     width: 150px;
     
+}
+.btn-live{
+    background-color: #c4c2be;
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+    width: 100px;
+    color: black;
+    font-weight: bold;
+    box-shadow: 1px 2.5px ;
+}
+.btn-view{
+    background-color: #dfdad8;
+    border: none;
+    border-radius: 20px;
+    padding: 5px;
+    width: 100px;
+    color: black;
+    font-weight: bold;
+    box-shadow: 1px 2.5px ;
+}
+.edu{
+    border: #b3b0ae;
+    box-shadow: rgb(19, 17, 17) 1px 1px 1px 1px;
+    background-color: #b3b0ae;
+    
+}
+.cert{
+    background-color: aquamarine;
+    border: solid black 1px;
+   
+}
+.pro-con{
+  
+}
+.detail-container{
+
 }
