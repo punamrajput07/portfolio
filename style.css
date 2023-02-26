@@ -85,14 +85,13 @@ background-color: #0dcaf0;
     box-shadow: 1px 2.5px ;
 }
 .edu{
-    border: #b3b0ae;
-    box-shadow: rgb(19, 17, 17) 1px 1px 1px 1px;
-    background-color: #b3b0ae;
+   
+    background-color:white;
     
 }
 .cert{
-    background-color: aquamarine;
-    border: solid black 1px;
+    background-color: white;
+   
    
 }
 .pro-con{
