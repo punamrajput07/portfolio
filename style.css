@@ -9,7 +9,7 @@
 .icon{
    border-radius: 50%;
    border: none;
-   width: 80PX;
+   width: 70PX;
    box-shadow: rgb(223, 212, 212) 2px 2.5px 1px;
 }
 .p-logo{
@@ -73,6 +73,7 @@ background-color: #0dcaf0;
     color: black;
     font-weight: bold;
     box-shadow: 1px 2.5px ;
+    margin-bottom: 25px;
 }
 .btn-view{
     background-color: #dfdad8;
@@ -99,4 +100,31 @@ background-color: #0dcaf0;
 }
 .detail-container{
 
+}
+.foodie{
+    background-color: none;
+    border: none;
+    box-shadow: #9e9d9b 1px 2px 2px 2px;
+    height: fit-content;
+
+}
+.yoga{
+    background-color: none;
+    border: none;
+    box-shadow: #9e9d9b 1px 2px 2px 2px;
+}
+.horror{
+    background-color: none;
+    border: none;
+    box-shadow: #9e9d9b 1px 2px 2px 2px;
+}
+.det-1{
+background-color: none;
+border: none;
+box-shadow: #9e9d9b 1px 2px 2px 2px;
+}
+.det-2{
+    background-color: none;
+    border: none;
+    box-shadow: #9e9d9b 1px 2px 2px 2px;
 }
